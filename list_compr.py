@@ -1,27 +1,22 @@
 """Esercitazione sulla list comprehension"""
 
 import random
+import time
 
 N = int(input("Inserisci la dimensione della lista: "))
 
-num = [random.randint(1, 1000) for i in range(N)]
+# SCRIVI QUI LE LIST COMPREHENSION
 
-even = [i for i in num if i % 2 == 0]
+print()
+print(f"Lista di numeri casuali: {num}")
+print(f"Numeri pari: {even}")
+print(f"Numeri divisibili per 3: {div_3}")
+print(f"Numeri pari e divisibili per 3: {even_div_3}")
+print(f"Quadrati: {square}")
+print(f"Cubi: {cube}") 
+print(f"Radice quadrata dei numeri pari, radice cubica dei numeri dispari: {mixed_sq_cub_root}")
+print()
 
-div_3 = [i for i in num if i % 3 == 0]
+# SCRIVI QUI LO SVOLGIMENTO DEL PUNTO 8
 
-even_div_3 = [i for i in num if i % 2 == 0 and i % 3 == 0]
-
-square = [i**2 for i in num]
-
-cube = [i**3 for i in num]
-
-
-print("Lista di numeri casuali: ", num)
-print("Numeri pari: ", even)
-print("Numeri divisibili per 3: ", div_3)
-print("Numeri pari e divisibili per 3: ", even_div_3)
-print("Quadrati: ", square)
-print("Cubi: ", cube)
-
-
+print(f"Lista di numeri casuali modificata: {num}")

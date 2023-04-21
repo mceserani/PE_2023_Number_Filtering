@@ -13,8 +13,10 @@ Filtraggio di una lista di numeri
 
 6. Utilizzando una list comprehension, crea una nuova lista che contenga il cubo di ciascun numero nella lista originale.
 
-7. Stampare a video la lista originale e le cinque nuove liste.
+7. Utilizzando una list comprehension, crea una nuova lista che contenga la radice quadrata di ciascun numero pari nella lista originale e la radice cubica di ciascun numero dispari.
 
-8. Modifica le list comprehension del punto 2, 3 e 4 in modo che invece di creare nuove liste, modifichino direttamente la lista originale. Utilizza il metodo remove per rimuovere gli elementi non desiderati dalla lista.
+8. Stampare a video la lista originale e le nuove liste create.
 
-9. Stampa a video la lista originale modificata e la lista dei quadrati e cubi degli elementi nella lista originale.
+8. Modifica la list comprehension del punto 2 in modo che invece di creare una nuova lista, modifichi direttamente la lista originale. Utilizza il metodo remove per rimuovere gli elementi non desiderati dalla lista.
+
+9. Stampa a video la lista modificata.
