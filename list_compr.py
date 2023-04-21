@@ -17,6 +17,6 @@ print(f"Cubi: {cube}")
 print(f"Radice quadrata dei numeri pari, radice cubica dei numeri dispari: {mixed_sq_cub_root}")
 print()
 
-# SCRIVI QUI LO SVOLGIMENTO DEL PUNTO 8
+# SCRIVI QUI LO SVOLGIMENTO DEL PUNTO 9
 
 print(f"Lista di numeri casuali modificata: {num}")

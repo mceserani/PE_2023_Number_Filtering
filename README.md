@@ -17,6 +17,6 @@ Filtraggio di una lista di numeri
 
 8. Stampare a video la lista originale e le nuove liste create.
 
-8. Modifica la list comprehension del punto 2 in modo che invece di creare una nuova lista, modifichi direttamente la lista originale. Utilizza il metodo remove per rimuovere gli elementi non desiderati dalla lista.
+9. Modifica la list comprehension del punto 2 in modo che invece di creare una nuova lista, modifichi direttamente la lista originale. Utilizza il metodo remove per rimuovere gli elementi non desiderati dalla lista.
 
-9. Stampa a video la lista modificata.
+10. Stampa a video la lista modificata.
