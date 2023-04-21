@@ -13,7 +13,7 @@ Filtraggio di una lista di numeri
 
 6. Utilizzando una list comprehension, crea una nuova lista che contenga il cubo di ciascun numero nella lista originale.
 
-7. Stampare a video la lista originale e le quattro nuove liste.
+7. Stampare a video la lista originale e le cinque nuove liste.
 
 8. Modifica le list comprehension del punto 2, 3 e 4 in modo che invece di creare nuove liste, modifichino direttamente la lista originale. Utilizza il metodo remove per rimuovere gli elementi non desiderati dalla lista.
 
